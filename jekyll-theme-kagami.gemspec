@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-kagami"
   spec.version       = "0.1.11"
-  spec.authors       = ["kamikat"]
-  spec.email         = ["kamikat@banana.moe"]
+  spec.authors       = ["KimJooeon"]
+  spec.email         = ["joo2theeon@gmail.com"]
 
   spec.summary       = %q{A peaceful theme for Jekyll and GitHub Pages.}
   spec.homepage      = "https://github.com/kamikat/jekyll-theme-kagami"
