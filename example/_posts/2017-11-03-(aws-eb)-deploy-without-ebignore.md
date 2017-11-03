@@ -20,7 +20,7 @@ AWS의 EB CLI는 기본적으로 git의 commit 단위로 배포를 해준다.
 
 
 해결책이 하나 있다. `eb deploy --staged` 옵션을 사용하는 것이다.  
-*commit 하면 안 되지만, deploy는 해야 하는 파일*{:.underline}은 
+**commit 하면 안 되지만, deploy는 해야 하는 파일**은 
 
 1. 강제로 `staged` 시킨다: `git add -f <file_name>`
 2. 배포한다: `eb deploy --staged`
