@@ -6,7 +6,8 @@ tags: git git/remote_branch
 categories: AWS
 ---
 
-## AWS Elastic Beanstalk Deploy: .ebignore 파일 없이 .gitignore에 있는 파일 배포하기  
+**AWS Elastic Beanstalk Deploy:**
+## .ebignore 파일 없이 .gitignore에 있는 파일 배포하기  
 >  .gitignore에 있는 파일을 배포 하면서 동시에 git commit 단위로 배포할 수 있다
 
 AWS의 EB CLI는 기본적으로 git의 commit 단위로 배포를 해준다.  
